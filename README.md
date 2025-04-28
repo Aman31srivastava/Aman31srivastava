@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman31srivastava" alt="aman31srivastava" /></a> </p>
 
-- 🌱 I’m currently learning **Django, ReactJS , MongoDB**
+- 🌱 I’m currently learning **Django, ReactJS , MongoDB, GenAI with Langchains, HuggingFace**
 
 - 💬 Ask me about **Full Stack Development, Data Science and ML**
 
